@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/bluefront.png</file>
+        <file>res/blueright.png</file>
+        <file>res/blueup.png</file>
+        <file>res/greenfront.png</file>
+        <file>res/greenright.png</file>
+        <file>res/greenup.png</file>
+        <file>res/orangefront.png</file>
+        <file>res/orangeright.png</file>
+        <file>res/orangeup.png</file>
+        <file>res/redfront.png</file>
+        <file>res/redright.png</file>
+        <file>res/redup.png</file>
+        <file>res/whitefront.png</file>
+        <file>res/whiteright.png</file>
+        <file>res/whiteup.png</file>
+        <file>res/yellowfront.png</file>
+        <file>res/yellowright.png</file>
+        <file>res/yellowup.png</file>
+        <file>res/blueback.png</file>
+        <file>res/bluedown.png</file>
+        <file>res/blueleft.png</file>
+        <file>res/greenback.png</file>
+        <file>res/greendown.png</file>
+        <file>res/greenleft.png</file>
+        <file>res/orangeback.png</file>
+        <file>res/orangedown.png</file>
+        <file>res/orangeleft.png</file>
+        <file>res/redback.png</file>
+        <file>res/reddown.png</file>
+        <file>res/redleft.png</file>
+        <file>res/whiteback.png</file>
+        <file>res/whitedown.png</file>
+        <file>res/whiteleft.png</file>
+        <file>res/yellowback.png</file>
+        <file>res/yellowdown.png</file>
+        <file>res/yellowleft.png</file>
+        <file>res/background.png</file>
+        <file>res/cube.png</file>
+    </qresource>
+</RCC>
